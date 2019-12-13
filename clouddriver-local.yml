@@ -1051,9 +1051,6 @@ kubernetes:
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
-kubernetes:
-  enabled: true
-  accounts:
   - name: k8s-v2-acc-31
     liveManifestCalls: true
     requiredGroupMembership: []
@@ -2804,9 +2801,6 @@ kubernetes:
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
-kubernetes:
-  enabled: true
-  accounts:
   - name: k8s-v2-acc-81
     liveManifestCalls: true
     requiredGroupMembership: []
@@ -4557,9 +4551,6 @@ kubernetes:
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
-kubernetes:
-  enabled: true
-  accounts:
   - name: k8s-v2-acc-a-31
     liveManifestCalls: true
     requiredGroupMembership: []
@@ -6310,9 +6301,6 @@ kubernetes:
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
-kubernetes:
-  enabled: true
-  accounts:
   - name: k8s-v2-acc-a-81
     liveManifestCalls: true
     requiredGroupMembership: []
@@ -8063,9 +8051,6 @@ kubernetes:
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
-kubernetes:
-  enabled: true
-  accounts:
   - name: k8s-v2-acc-b-31
     liveManifestCalls: true
     requiredGroupMembership: []
@@ -9816,9 +9801,6 @@ kubernetes:
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
-kubernetes:
-  enabled: true
-  accounts:
   - name: k8s-v2-acc-b-81
     liveManifestCalls: true
     requiredGroupMembership: []
@@ -11569,9 +11551,6 @@ kubernetes:
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
-kubernetes:
-  enabled: true
-  accounts:
   - name: k8s-v2-acc-c-31
     liveManifestCalls: true
     requiredGroupMembership: []
@@ -13322,9 +13301,6 @@ kubernetes:
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
-kubernetes:
-  enabled: true
-  accounts:
   - name: k8s-v2-acc-c-81
     liveManifestCalls: true
     requiredGroupMembership: []
@@ -15075,9 +15051,6 @@ kubernetes:
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
-kubernetes:
-  enabled: true
-  accounts:
   - name: k8s-v2-acc-c-31
     liveManifestCalls: true
     requiredGroupMembership: []
@@ -16828,9 +16801,6 @@ kubernetes:
     checkPermissionsOnStartup: false
     oAuthScopes: []
     onlySpinnakerManaged: false
-kubernetes:
-  enabled: true
-  accounts:
   - name: k8s-v2-acc-c-81
     liveManifestCalls: true
     requiredGroupMembership: []
